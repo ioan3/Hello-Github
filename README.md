@@ -1,1 +1,1 @@
-![head](https://raw.githubusercontent.com/ioan3/WaningCrescent/master/WaningCrescent.svg)
+![Waning Crescent](https://raw.githubusercontent.com/ioan3/WaningCrescent/master/WaningCrescent.svg)
