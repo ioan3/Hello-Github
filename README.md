@@ -4,6 +4,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ioane-stacks&layout=compact)
 
 
-<a href="https://ioane-stacks.github.io/MyPortfolio/">
-  My Portfolio Website
+<a href="https://ioane-stacks.github.io/MyPortfolio/" target="_blank">
+  <img src="https://raw.githubusercontent.com/ioane-stacks/Ressources-For-Everything/main/MyPortfolio/Portfolio.png" />
 </a>
