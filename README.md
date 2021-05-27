@@ -15,5 +15,5 @@
 
 <h4>Visit to my social links</h4>
 <a href="https://www.facebook.com/ioanestacks/" ><img src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=32&h=32"></a>
-<a href="https://www.freelancer.com/u/ioanestacks3" ><img width="32" src="https://raw.githubusercontent.com/ioane-stacks/Ressources-For-Everything/489382b2935388978fe3f03abb712ed0988f4a90/SocialIcons/Linkedin.svg"></a>
-<a href="https://www.freelancer.com/u/ioanestacks3" ><img width="32" src="https://raw.githubusercontent.com/ioane-stacks/Ressources-For-Everything/ec9a91a1374d78c52f342a0e6f10f9967c680ad2/SocialIcons/Freelancer.svg"></a>
+<a href="https://www.linkedin.com/in/ioanestack/" ><img width="32" src="https://raw.githubusercontent.com/ioane-stacks/Ressources-For-Everything/5bdfa59f6d296bad062500bf3d5447fb61ea3f18/SocialIcons/Linkedin.svg"></a>
+<a href="https://www.freelancer.com/u/ioanestacks3" ><img width="32" src="https://raw.githubusercontent.com/ioane-stacks/Ressources-For-Everything/5bdfa59f6d296bad062500bf3d5447fb61ea3f18/SocialIcons/Freelancer.svg"></a>
