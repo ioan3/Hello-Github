@@ -4,6 +4,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ioane-stacks&layout=compact)
 
 
-<a href="https://ioane-stacks.github.io/MyPortfolio/" target="_blank">
-  <img src="https://raw.githubusercontent.com/ioane-stacks/Ressources-For-Everything/main/MyPortfolio/Portfolio.png" />
+<a href="https://ioane-stacks.github.io/MyPortfolio/">
+  <img width="495" src="https://raw.githubusercontent.com/ioane-stacks/Ressources-For-Everything/72da7e3016cc1622843854cc1cfad8b14be5a086/MyPortfolio/Portfolio.svg" />
 </a>
+
