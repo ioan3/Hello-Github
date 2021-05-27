@@ -10,5 +10,5 @@
 <!--THIS PART IS COMENTED-->
 
 
-![IOANE](https://raw.githubusercontent.com/ioane-stacks/Ressources-For-Everything/18480f38c2e70ac2ee73b0d5d7a4d5d7594224ce/MyPortfolio/Portfolio.svg)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ioane-stacks&theme=tokyonight&hide_border=true&bg_color=093534&title_color=189e94)
+![IOANE](https://raw.githubusercontent.com/ioane-stacks/Ressources-For-Everything/122bc05fe08b214bec259c4235e7c378004f0d54/MyPortfolio/Portfolio.svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ioane-stacks&theme=tokyonight&hide_border=true&bg_color=DEG,064141,042627&title_color=189e94&line_height=5)
