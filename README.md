@@ -17,10 +17,10 @@
 <b><h3>Technical Skills</h3></b>
 <pre>
 <ul>
-  <li>Programming: C# | T-SQL | PYTHON</li>
-  <li>Front-End: HTML | CSS | JAVASCRIPT | BOOTSTRAP</li>
+  <li>Programming: C# | T-SQL | PYTHON </li>
+  <li>Front-End: HTML | CSS | JAVASCRIPT | BOOTSTRAP </li>
   <li>Graphic Design: Adobe Illustrator | Adobe Photoshop </li>
-  <li>Database Management: Microsoft SQL Server | Oracle Database
+  <li>Database Management: Microsoft SQL Server | Oracle Database </li>
 </ul>
 </pre>
 
