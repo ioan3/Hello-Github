@@ -24,6 +24,8 @@
 </ul>
 </pre>
 
+<img src="https://activity-graph.herokuapp.com/graph?username=ioane-stacks&theme=dracula&bg_color=00000000&color=878787&line=189e94&point=00000000&area=true&hide_border=true">
+
 <h4>You can find me here</h4>
 <a href="https://www.facebook.com/ioanestacks/" ><img width="32" src="https://raw.githubusercontent.com/ioane-stacks/Ressources-For-Everything/c7b9669d63e9314e8fe4714464d4f2536786fd36/SocialIcons/Facebook.svg"></a>
 <a href="https://www.linkedin.com/in/ioanestack/" ><img width="32" src="https://raw.githubusercontent.com/ioane-stacks/Ressources-For-Everything/5bdfa59f6d296bad062500bf3d5447fb61ea3f18/SocialIcons/Linkedin.svg"></a>
