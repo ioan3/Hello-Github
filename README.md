@@ -5,6 +5,6 @@
 
 
 <a href="https://ioane-stacks.github.io/MyPortfolio/">
-  <img width="495" src="https://raw.githubusercontent.com/ioane-stacks/Ressources-For-Everything/72da7e3016cc1622843854cc1cfad8b14be5a086/MyPortfolio/Portfolio.svg" />
+  <img width="495" src="https://raw.githubusercontent.com/ioane-stacks/Ressources-For-Everything/8160f76aa825c5d8edcbe7894f80c7a363227abc/MyPortfolio/Portfolio.svg" />
 </a>
 
