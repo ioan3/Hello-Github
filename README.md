@@ -17,8 +17,8 @@
 <b><h3>Technical Skills</h3></b>
 <pre>
 <ul>
-  <li><kbd>Programming:</kbd> C# | T-SQL | PYTHON </li>
-  <li><kbd>Front-End:</kbd> HTML | CSS | JAVASCRIPT | BOOTSTRAP </li>
+  <li><kbd>Programming:</kbd> C# | T-SQL | PYTHON | ASP .NET MVC</li>
+  <li><kbd>Front-End:</kbd> HTML | CSS | JAVASCRIPT | BOOTSTRAP | JQUERY | JSON | AJAX </li>
   <li><kbd>Graphic Design:</kbd> Adobe Illustrator | Adobe Photoshop </li>
   <li><kbd>Database Management:</kbd> Microsoft SQL Server | Oracle Database </li>
 </ul>
