@@ -28,3 +28,7 @@
 <a href="https://www.facebook.com/ioanestacks/" ><img width="32" src="https://raw.githubusercontent.com/ioane-stacks/Ressources-For-Everything/c7b9669d63e9314e8fe4714464d4f2536786fd36/SocialIcons/Facebook.svg"></a>
 <a href="https://www.linkedin.com/in/ioanestack/" ><img width="32" src="https://raw.githubusercontent.com/ioane-stacks/Ressources-For-Everything/5bdfa59f6d296bad062500bf3d5447fb61ea3f18/SocialIcons/Linkedin.svg"></a>
 <a href="https://www.freelancer.com/u/ioanestacks3" ><img width="32" src="https://raw.githubusercontent.com/ioane-stacks/Ressources-For-Everything/5bdfa59f6d296bad062500bf3d5447fb61ea3f18/SocialIcons/Freelancer.svg"></a>
+
+<h4>I am using</h4>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c81b1e7e-5c2f-4b6b-b0f6-1b8a95f2f1da/deploy-status)](https://app.netlify.com/sites/practical-einstein-25b73a/deploys)
