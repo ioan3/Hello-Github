@@ -31,4 +31,4 @@
 
 <h4>I am using</h4>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c81b1e7e-5c2f-4b6b-b0f6-1b8a95f2f1da/deploy-status)](https://app.netlify.com/sites/practical-einstein-25b73a/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c81b1e7e-5c2f-4b6b-b0f6-1b8a95f2f1da/deploy-status)](https://app.netlify.com/teams/ioane-stacks/overview)
