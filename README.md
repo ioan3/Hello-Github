@@ -21,10 +21,10 @@
 <b><h3>Technical Skills 🧠</h3></b>
 <pre>
 <ul>
-  <li><kbd>Programming:</kbd> C# | T-SQL | PYTHON | ASP .NET MVC</li>
+  <li><kbd>Programming:</kbd> C# | SQL | PYTHON | ASP .NET MVC | NodeJS</li>
   <li><kbd>Front-End:</kbd> HTML | CSS | JAVASCRIPT | TYPESCRIPT | BOOTSTRAP | JQUERY | JSON | AJAX | REACTJS</li>
   <li><kbd>Graphic Design:</kbd> Adobe Illustrator | Adobe Photoshop </li>
-  <li><kbd>Database Management:</kbd> Microsoft SQL Server | Oracle Database </li>
+  <li><kbd>Database Management:</kbd> Microsoft SQL Server | Oracle Database | MySQL</li>
 </ul>
 </pre>
 
