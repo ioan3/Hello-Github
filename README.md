@@ -22,7 +22,7 @@
 <pre>
 <ul>
   <li><kbd>Programming:</kbd> C# | SQL | PYTHON | ASP .NET MVC | NodeJS</li>
-  <li><kbd>Front-End:</kbd> HTML | CSS | JAVASCRIPT | BOOTSTRAP | JQUERY  | AJAX | REACTJS</li>
+  <li><kbd>Front-End:</kbd> HTML | CSS | JAVASCRIPT | BOOTSTRAP | JQUERY  | AJAX | REACTJS | REACT NATIVE</li>
   <li><kbd>Graphic Design:</kbd> Adobe Illustrator | Adobe Photoshop </li>
   <li><kbd>Database Management:</kbd> Microsoft SQL Server | Oracle Database | MySQL | JSON</li>
 </ul>
